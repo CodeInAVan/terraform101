@@ -47,9 +47,9 @@ To start with more or less nothing but this readme file and see how the project 
 1. Install git, a good article for that can be found [here](https://docs.gitlab.com/ee/topics/git/how_to_install_git/).
 2. Create a suitable location to hold a checkout directory and clone this git repo:
 
-        mkdir -p ~/git/gibbsoft
-        cd ~/git/gibbsoft
-        git clone https://github.com/gibbsoft/terraform101.git
+        mkdir -p ~/git/CodeInAVan
+        cd ~/git/CodeInAVan
+        git clone https://github.com/CodeInAVan/terraform101.git
         cd terraform101
 
 3. Examine the files in the directory using your favourite text editor. Personally, I prefer [vscode](https://code.visualstudio.com/) these days, although `vi` and `nano` are often pre-installed on *nix platforms.
